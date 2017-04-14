@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+wp-cli.local.yml
+node_modules/
+*.zip
+*.tar.gz
+
+phpcs.ruleset.xml
+bin/
+.travis.yml
+phpunit.xml.dist
+.distignore
+.editorconfig
+tests/
+readme.txt
+
